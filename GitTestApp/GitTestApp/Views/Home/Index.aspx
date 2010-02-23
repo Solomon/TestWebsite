@@ -8,5 +8,8 @@
     <h2><%= Html.Encode(ViewData["Message"]) %></h2>
     <p>
         Made a quick change, but still the initial view
+        
+        <br />
+        Need to make an emergency change here...
     </p>
 </asp:Content>
