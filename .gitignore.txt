@@ -1,5 +1,0 @@
-_ReSharper.*
-*.resharper.user
-*.resharper
-*.suo
-*~
