@@ -5,8 +5,11 @@
 </asp:Content>
 
 <asp:Content ID="aboutContent" ContentPlaceHolderID="MainContent" runat="server">
-    <h2>About</h2>
+    <h2>This is the second change to the about page</h2>
     <p>
-        Put content here.
+        Let me make this change to the about page, as a quick idea.
+        <br />
+        Also, let's add a third change to the about page.
+        Finally, let's make the fourth change...
     </p>
 </asp:Content>
